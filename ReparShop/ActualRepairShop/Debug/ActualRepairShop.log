@@ -1,0 +1,3 @@
+﻿  Driver.cpp
+c:\users\ggordon\source\repos\reparshop\actualrepairshop\driver.cpp(8): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ActualRepairShop.vcxproj -> C:\Users\ggordon\source\repos\ReparShop\Debug\ActualRepairShop.exe
